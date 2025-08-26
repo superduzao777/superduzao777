@@ -27,7 +27,7 @@
 ---
 
 ## 📊 Projetos em Andamento
-- 🛒 Plataforma **ERP + Ecommerce + PDV + Power BI** (TCC)  
+- 🛒 Plataforma **ERP + Ecommerce + PDV + Power BI** (Projeto Faculdade)  
 - ☁️ Orquestrador multi-S3 com **MinIO + Rust**  
 - 🧩 **CRM dinâmico** (entidades e relacionamentos customizáveis via JSON)  
 - 🔒 Ferramentas de **segurança e versionamento de dados** para SaaS  

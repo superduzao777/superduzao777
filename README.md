@@ -34,12 +34,6 @@
 
 ---
 
-## 📈 Estatísticas do GitHub
-![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=superduzao777&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superduzao777&layout=compact&theme=radical)
-
----
-
 ## 🌎 Conecte-se comigo
 - 🔗 [LinkedIn]([https://linkedin.com/in/SEU-LINKEDIN](https://www.linkedin.com/in/eduardo-mattos-full-stack/))
 - 🌐 [Meu Site](https://eduardomattos.dev/) 

@@ -1,6 +1,23 @@
- [![wakatime](https://wakatime.com/badge/user/018ceb3f-a108-4403-97d2-2779dad0f410.svg)](https://wakatime.com/@018ceb3f-a108-4403-97d2-2779dad0f410)
+ [![wakatime](https://wakatime.com/badge/user/018ceb3f-a108-4403-97d2-2779dad0f410.svg)]()
  
  👋# Olá, eu sou o Eduardo Mattos
+
+[![rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)]()
+[![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)]()
+[![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)]()
+[![Inertia.js](https://img.shields.io/badge/-Inertia.js-333333?style=flat&logo=inertia)]()
+[![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vuedotjs)]()
+[![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)]()
+[![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)]()
+[![Node.js](https://img.shields.io/badge/-Node-333333?style=flat&logo=nodedotjs)]()
+[![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)]()
+[![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)]()
+[![Electron](https://img.shields.io/badge/-Electron-333333?style=flat&logo=electron)]()
+[![Tauri](https://img.shields.io/badge/-Tauri-333333?style=flat&logo=tauri)]()
+[![tailwind](https://img.shields.io/badge/-tailwind-333333?style=flat&logo=tailwindcss)]()
+[![IOS](https://img.shields.io/badge/-IOS-333333?style=flat&logo=ios)]()
+[![Android](https://img.shields.io/badge/-android-333333?style=flat&logo=android)]()
+
 
 💻 Desenvolvedor **Fullstack** apaixonado por criar soluções escaláveis, rápidas e modernas.  
 🚀 Fundador da [Hard Codes](https://hardcodes.agency/), onde desenvolvemos **web apps, SaaS e soluções descentralizadas**.  

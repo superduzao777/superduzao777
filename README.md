@@ -1,8 +1,4 @@
 # 👋 Olá, eu sou o Eduardo Mattos  
-
-[![wakatime](https://wakatime.com/badge/user/018ceb3f-a108-4403-97d2-2779dad0f410.svg)]()   
-
-## 💻 Sobre mim
 🚀 Desenvolvedor **Fullstack** (Web, Mobile e Desktop) com experiência em **SaaS, microsserviços e sistemas distribuídos**.  
 🏢 Fundador da **[Hard Codes](https://hardcodes.agency/)**, onde criamos soluções digitais modernas e escaláveis.  
 🎓 Estudante de **Ciência da Computação**, com foco em pesquisa, inovação e **doutorado direto**.  

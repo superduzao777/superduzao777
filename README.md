@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Eduardo Mattos  
 🚀 Desenvolvedor **Fullstack** (Web, Mobile e Desktop) com experiência em **SaaS, microsserviços e sistemas distribuídos**.  
 🏢 Fundador da **[Hard Codes](https://hardcodes.agency/)**, onde criamos soluções digitais modernas e escaláveis.  
-🎓 Estudante de **Ciência da Computação**, com foco em pesquisa, inovação e **doutorado direto**.  
+🎓 Estudante de **Ciência da Computação**, com foco em pesquisa e inovação.  
 🔍 Apaixonado por **arquiteturas clean, performance, offline-first** e **segurança de dados**.  
 
 [![rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)]() [![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)]() [![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)]() [![Inertia.js](https://img.shields.io/badge/-Inertia.js-333333?style=flat&logo=inertia)]() [![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vuedotjs)]() [![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)]() [![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)]() [![Node.js](https://img.shields.io/badge/-Node-333333?style=flat&logo=nodedotjs)]() [![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)]() [![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)]() [![Electron](https://img.shields.io/badge/-Electron-333333?style=flat&logo=electron)]() [![Tauri](https://img.shields.io/badge/-Tauri-333333?style=flat&logo=tauri)]() [![tailwind](https://img.shields.io/badge/-tailwind-333333?style=flat&logo=tailwindcss)]() [![IOS](https://img.shields.io/badge/-IOS-333333?style=flat&logo=ios)]() [![Android](https://img.shields.io/badge/-android-333333?style=flat&logo=android)]()
@@ -9,7 +9,7 @@
 ## 🚀 Stack Principal  
 
 ### ⚙️ Backend  
-- **Laravel 12 (PHP 8+)**, Rust (apps desktop & microserviços), Node.js  
+- **Laravel 13 (PHP 8+)**, Rust (apps desktop & microserviços), Node.js  
 - Integração com APIs, e-commerces e marketplaces  
 
 ### 🎨 Frontend  
@@ -22,7 +22,7 @@
 - **TiDB** (distribuído e escalável)  
 - **Dolt** (versionamento de dados)  
 - **DragonflyDB** (cache/queue)  
-- MySQL/MariaDB  
+- MySQL/MariaDB  e PostgreSQL
 
 ### ☁️ DevOps & Cloud  
 - Docker, MinIO, Cloudflare Tunnels, CI/CD  
@@ -40,8 +40,6 @@
 ## 📊 Projetos em Andamento  
 - 🛒 **ERP + Ecommerce + PDV + Power BI** (Projeto Faculdade)  
 - ☁️ **Orquestrador multi-S3 com Rust + MinIO** (Open Source)  
-- 🧩 **CRM dinâmico e nocode** (metaprogramação + JSON)  
-- 🔒 Ferramentas de **segurança, versionamento e backup de dados**
 
 - 
 ## 🏆 Conquistas e Reconhecimento
@@ -60,7 +58,6 @@
 
 ## 🌱 Objetivos Futuros  
 - 📈 Publicar artigos científicos em **conferências internacionais**  
-- 🎓 Concluir o doutorado direto em **Ciência da Computação**  
 - 🛠️ Criar **frameworks e ferramentas open source** para SaaS  
 - 🌍 Disponibilizar diversos SaaS e expandir a **Hard Codes** para o mercado global
 
